@@ -1,0 +1,149 @@
+body {
+  font-family: "Georgia", serif;
+  background-color: #fdf3eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+.invitation-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 40px;
+  max-width: 600px;
+  width: 100%;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  border: 2px solid #e6c9b1;
+}
+
+h1 {
+  font-size: 28px;
+  color: #7b3e19;
+  margin-bottom: 8px;
+}
+
+h2 {
+  font-size: 22px;
+  color: #b38a65;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 26px;
+  color: #7b3e19;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 15px;
+  color: #444;
+  margin: 4px 0;
+}
+
+.section-title {
+  margin-top: 25px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #7b3e19;
+  text-decoration: none;
+}
+
+ol {
+  list-style-position: inside;
+  text-align: center;          
+  margin: 15px auto;
+  padding-left: 0;             
+  line-height: 1.8;
+  color: #444;
+  font-size: 15px;
+}
+
+
+ul {
+  text-align: left;
+  margin: 15px auto;
+  padding-left: 60px;
+  line-height: 1.8;
+  color: #444;
+  font-size: 15px;
+}
+
+.horizontal-list {
+  display: flex;
+  gap: 40px;
+  list-style-type: circle;
+}
+
+.footer {
+  margin-top: 25px;
+  font-weight: bold;
+  color: #444;
+}
+body {
+  font-family: "Georgia", serif;
+  background-color: #fdf3eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+.invitation-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 40px;
+  max-width: 600px;
+  width: 100%;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  border: 2px solid #e6c9b1;
+}
+
+h1 {
+  font-size: 28px;
+  color: #7b3e19;
+  margin-bottom: 8px;
+}
+
+h2 {
+  font-size: 22px;
+  color: #b38a65;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 26px;
+  color: #7b3e19;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 15px;
+  color: #444;
+  margin: 4px 0;
+}
+
+.section-title {
+  margin-top: 25px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #7b3e19;
+  text-decoration: underline;
+}
+
+ul {
+  text-align: left;
+  margin: 15px auto;
+  padding-left: 60px;
+  line-height: 1.8;
+  color: #444;
+  font-size: 15px;
+}
+
+.footer {
+  margin-top: 25px;
+  font-weight: bold;
+  color: #444;
+}
